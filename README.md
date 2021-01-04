@@ -7,7 +7,7 @@
 ## Gradient Boosting Algorithm
 
 - Original Paper
-[Gradient Boosting](fiedman2002.pdf)
+[Gradient Boosting](friedman2002.pdf)
 - Source Code
 [Gradient Boosting](docs/Mock-Up)
 
