@@ -21,7 +21,7 @@ Gradient boosting adalah teknik pembelajaran mesin untuk masalah regresi dan kla
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/ridwans99"><img src="" width="100px;" alt=""/><br /><sub><b>Ridwan Syah</b></sub></a><br /><a href="" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/ridwans99"><img src="https://avatars2.githubusercontent.com/u/56246049?s=400&u=5d338b50d0e543fdc59d06f089999c3c18098110&v=4" width="100px;" alt=""/><br /><sub><b>Ridwan Syah</b></sub></a><br /><a href="" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/gianchiesa"><img src="https://avatars3.githubusercontent.com/u/62921027?s=400&u=5d55942d3c6591078ee3c98016b4950db4d3f4eb&v=4" width="100px;" alt=""/><br /><sub><b>Gian Chiesa</b></sub></a><br /><a href="" title="Code">💻</a></td>
   </tr>
 </table>
