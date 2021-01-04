@@ -1,6 +1,6 @@
-# Team-S-PKB
+# Team-R-PKB
 
-## Team S
+## Team R
 1. Ridwan Syah            (1313618016)
 2. Gian Chiesa Magriza    (1313618021)
 
