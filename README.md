@@ -2,7 +2,7 @@
 
 ## Team S
 1. Ridwan Syah            (1313618016)
-2. Gian Chiesa Magriza    (1313618010)
+2. Gian Chiesa Magriza    (1313618021)
 
 ## Gradient Boosting Algorithm
 

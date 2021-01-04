@@ -1,0 +1,43 @@
+# Description file for prefuseTree
+#
+# 
+
+# Package name (required)
+PackageName=kfKettle
+
+# Version (required)
+Version=1.0.5
+
+#Date
+Date=2016-11-02
+
+# Title (required)
+Title=A Knowledge Flow plugin that serves as a data source for data coming from the Kettle ETL tool.
+
+Category=KnowledgeFlow
+
+# Author (required)
+Author=Mark Hall <mhall@pentaho.com>
+
+# Maintainer (required)
+Maintainer=Mark Hall <mhall@pentaho.com>
+
+# License (required)
+License=GPL 3.0
+
+# Description (required)
+Description=A Knowledge Flow plugin that acts as a dummy data source for data coming from the Kettle ETL Tool. Is designed to be used as an entry point into a Knowledge Flow process by the Knowledge Flow Kettle plugin step. This Kettle component converts data rows from an upstream ETL process into Weka instances and then pumps them into the Knowledge Flow via this data source.
+
+Changes=Now includes a pom.xml file
+
+# Package URL for obtaining the package archive (required)
+PackageURL=http://prdownloads.sourceforge.net/weka/kfKettle1.0.5.zip?download
+
+# URL for further information
+URL=http://wiki.pentaho.com/display/DATAMINING/Using+the+Knowledge+Flow+Plugin
+
+# Related to other packages?
+Related=
+
+# Dependencies
+Depends=weka (>=3.8.0)
